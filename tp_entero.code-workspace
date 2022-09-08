@@ -1,0 +1,72 @@
+{
+    "folders": [
+		{
+			"name": "tp-2022-1c-recargadOS",
+			"path": "."
+		},
+		{
+			"name": "consola",
+			"path": "consola"
+		},
+		{
+			"name": "cpu",
+			"path": "cpu"
+		},
+		{
+			"name": "kernel",
+			"path": "kernel"
+		},
+		{
+			"name": "memoria",
+			"path": "memoria"
+		},
+		{
+			"name": "static",
+			"path": "static"
+		},
+		{
+			"name": "pruebas",
+			"path": "pruebas"
+		}
+	],
+    "settings": {
+		"makefile.extensionOutputFolder": "./.vscode",
+		"files.associations": {
+			"main.h": "c",
+			"estructuras.h": "c",
+			"socket.h": "c",
+			"planificador.h": "c",
+			"list.h": "c",
+			"semaphore.h": "c",
+			"variables_globales.h": "c",
+			"inicializacion.h": "c",
+			"instruccion.h": "c",
+			"log.h": "c",
+			"config.h": "c",
+			"unistd.h": "c",
+			"stdlib.h": "c",
+			"stdbool.h": "c",
+			"cspec.h": "c",
+			"liberarpuerto.h": "c",
+			"signal.h": "c",
+			"array": "c",
+			"string_view": "c",
+			"initializer_list": "c",
+			"utility": "c",
+			"math.h": "c",
+			"cmath": "c",
+			"string": "c",
+			"servidor.h": "c",
+			"string.h": "c",
+			"stdio.h": "c",
+			"server.h": "c",
+			"memoria.h": "c",
+			"bitarray.h": "c",
+			"swap.h": "c",
+			"queue.h": "c",
+			"handshake_memoria.h": "c",
+			"ciclo_instruccion.h": "c",
+			"dictionary.h": "c"
+		}
+    }
+}
